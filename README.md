@@ -1,4 +1,4 @@
-Hi I am rahul C Reji.Passionate about Data Science and Machine Learning. I look forward
+Hi I am Rahul C Reji.Passionate about Data Science and Machine Learning. I look forward
 to working at the application level of mathematics and statistics and using them to get
 a proper insight into data.
 
